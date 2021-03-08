@@ -1,3 +1,0 @@
-hello all
-this is git
-making changes
